@@ -10,4 +10,4 @@ git : https://github.com/dvh1/gittest3.git
 폴더 : e:/gittest/gittest3 (새폴더,빈폴더)
 인텔리제이 브랜치변경 1-choi
 - 인 : 로컬에 1-main 체크아웃
-- 
+- 로컬 main 업데이트> 커밋내용: Update README.md >오른쪽마우스> 브랜치'main'>i-choi에 main병합
