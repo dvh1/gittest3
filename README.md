@@ -9,3 +9,5 @@
 git : https://github.com/dvh1/gittest3.git
 폴더 : e:/gittest/gittest3 (새폴더,빈폴더)
 인텔리제이 브랜치변경 1-choi
+- 인 : 로컬에 1-main 체크아웃
+- 
